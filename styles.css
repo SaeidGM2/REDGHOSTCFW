@@ -45,7 +45,7 @@ body { background-color: var(--bg); color: var(--text); transition: background 0
   width: 250px;
   height: 250px;
   border-radius: 50%;
-  background-image: url('https://cdn.discordapp.com/attachments/1384098272146096170/1387659203254157393/RD.png?ex=685e25d7&is=685cd457&hm=6e01ff96416d0d64160822667d2992c873badae7de56ad5e611bb9e5a257aa44&'); /* ← غيّر باسم صورتك إن لزم */
+  background-image: url('https://media.discordapp.net/attachments/1384098272146096170/1387659203254157393/RD.png?ex=68602017&is=685ece97&hm=4d4f851f9be4cf3b37ba32be434d1aa496b820fc779aad92ff75076b57fab92f&=&format=webp&quality=lossless'); /* ← غيّر باسم صورتك إن لزم */
   background-size: cover;
   background-position: center;
   display: flex;
